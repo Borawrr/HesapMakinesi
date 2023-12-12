@@ -34,6 +34,6 @@ public class HesapMakinesi {
                 System.out.println("Hicbir islem secmediniz");
 
         }
-        
+        scanner.close();
     }
 }
